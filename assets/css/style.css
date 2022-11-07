@@ -1,0 +1,84 @@
+.center{
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.menu li {
+  display: inline;
+  padding: 30px;
+}
+
+.center a {
+  color: black;
+  text-decoration: none;
+}
+
+.menu li a {
+  color: black;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.menu li a:hover{
+  color: #5451e7;
+  text-decoration: underline;
+}
+
+.tm-social{
+  width: 50px;
+  height: 50px;
+}
+
+.p-30{
+  padding: 30px;
+}
+
+.p-20{
+  padding: 20px;
+}
+
+.bk-color-contato{
+  background-image: url("https://www.bing.com/images/search?view=detailV2&ccid=aHwUIAtt&id=D6724AC1BF82AA82E0D627D2517A5E60C58C0AFD&thid=OIP.aHwUIAtttDVIWiHnMVVoJAHaE8&mediaurl=https%3a%2f%2fspguia.melhoresdestinos.com.br%2fsystem%2ffotos_local%2ffotos%2f46500%2fshow%2fpraia-do-prumirim.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.687c14200b6db435485a21e731556824%3frik%3d%252fQqMxWBeelHSJw%26pid%3dImgRaw%26r%3d0&exph=667&expw=1000&q=praia&simid=608039452625229330&FORM=IRPRST&ck=910AEF5F683A04AAB76D5859674AF8AB&selectedIndex=3&ajaxhist=0&ajaxserp=0");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+
+.bk-color-viagens{
+  background-image: url("https://www.bing.com/images/search?view=detailV2&ccid=vR7rysQE&id=1E1E6E70C8B7AFA10DF4CA754BE483DF7686F675&thid=OIP.vR7rysQEpJypJbaIFJmZuQHaE8&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.bd1eebcac404a49ca925b688149999b9%3frik%3ddfaGdt%252bD5Et1yg%26riu%3dhttp%253a%252f%252fmedia.melhoresdestinos.com.br%252f2018%252f11%252fubatuba-litoral-norte-de-sao-paulo.jpg%26ehk%3dyfiDBJFnOEMrMpd9D6sXIHkd4a%252f9%252fxzx5ucok48eRt8%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=1067&expw=1600&q=praia+ubatuba&simid=608010014929923699&FORM=IRPRST&ck=345E6139F8646C7DC68E28B59C72E0E7&selectedIndex=0&ajaxhist=0&ajaxserp=0");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.ml-50{
+  margin-left: 50px;
+}
+
+.mr-150{
+  margin-right: 150px;;
+}
+
+.mr-50{
+  margin-right: 50px;;
+}
+
+.mb-50{
+  margin-bottom: 50px;
+}
+
+.hw-d{
+  height: 150px;
+  width: 150px;
+}
+
+#avatar {
+  height: 120px;
+}
